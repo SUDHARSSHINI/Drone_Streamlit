@@ -1,4 +1,10 @@
 streamlit
+transformers
+pillow
+matplotlib
+requests
+
+streamlit
 pandas
 scikit-learn
 seaborn
