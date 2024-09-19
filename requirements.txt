@@ -1,4 +1,9 @@
 streamlit
+pandas
+scikit-learn
+seaborn
+matplotlib
+streamlit
 transformers
 torch
 pillow
