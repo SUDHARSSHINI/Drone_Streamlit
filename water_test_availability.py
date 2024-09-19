@@ -51,9 +51,9 @@ if question and 'image' in locals():
     # Function to determine if water is needed
     def needs_water(answer):
         if "water" in answer.lower():
-            return "The land needs water."
-        else:
             return "The land does not need water."
+        else:
+            return "The land needs water."
 
     # Print if water is needed based on the model's answer
     water_message = needs_water(result['answer'])
